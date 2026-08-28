@@ -10,7 +10,7 @@ ECUs, communication protocols, and real-time control systems.
 ## ⚡ Technical Skills
 
 - **Languages:** C, C++
-- **MCUs:** STM32F4, ESP32, ESP32-S3
+- **MCUs:** STM32(F446RE,BluePill), ESP32, 
 - **RTOS:** FreeRTOS
 - **Communication:** CAN, UART,SPI
 - **EV Charging:** BMS, DC Chargers, Contactor Control
