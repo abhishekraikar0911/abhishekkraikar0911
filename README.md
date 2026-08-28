@@ -12,7 +12,7 @@ ECUs, communication protocols, and real-time control systems.
 - **Languages:** C, C++
 - **MCUs:** STM32F4, ESP32, ESP32-S3
 - **RTOS:** FreeRTOS
-- **Communication:** CAN, UART
+- **Communication:** CAN, UART,SPI
 - **EV Charging:** BMS, DC Chargers, Contactor Control
 - **Protocols:** OCPP 1.6J
 - **Frameworks:** STM32 HAL
